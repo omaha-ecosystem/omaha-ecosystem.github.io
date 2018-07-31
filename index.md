@@ -4,6 +4,7 @@ layout: default
 ---
 # Omaha Ecosystem
 This list is really old.
+
 ##### AgriBusiness
 
 [![](https://web.archive.org/web/20161023134835im_/http://omahastartups.org/wp-content/uploads/2015/09/3759b1_2f3b7cc7c00640e383ac012cd0474671.jpg_srz_p_197_52_75_22_0.50_1.20_0.00_jpg_srz.jpg)  
@@ -249,3 +250,160 @@ Pickerclub is a fast growing, innovative and interactive social media website th
 
 
 ![](https://web.archive.org/web/20161023134835im_/http://omahastartups.org/wp-content/uploads/2015/05/Folder_Bottom1.png)
+
+
+##### Capital
+**Government Programs**
+
+[Nebraska Prototype Program  
+](https://web.archive.org/web/20170217052903/http://www.neded.org/files/businessdevelopment/talentinnovation/businessinnovation/Prototype_Guidelines.pdf)
+[Nebraska Commercialization Program](https://web.archive.org/web/20170217052903/http://www.neded.org/files/businessdevelopment/talentinnovation/businessinnovation/Commercialization_Guidelines.pdf)
+[Invest Nebraska  
+](https://web.archive.org/web/20170217052903/http://investnebraska.com/)
+[InternNE Program](https://web.archive.org/web/20170217052903/http://www.internne.com/)
+[Small Business Innovation Research  
+](https://web.archive.org/web/20170217052903/http://nbdc.unomaha.edu/technology-commercialization/sbir.cfm)
+[NE Angel Investment Tax Credit](https://web.archive.org/web/20170217052903/http://www.neded.org/business/talent-a-innovation-initiative/angel-investment)
+
+
+**Angel/Venture Capital**
+
+[Aksarben Discovery Fund](https://web.archive.org/web/20170217052903/http://www.aksarbeninnovation.org/)
+[Dundee Venture Capital](https://web.archive.org/web/20170217052903/http://dundeeventurecapital.com/)
+[Garage by Aviture](https://web.archive.org/web/20170217052903/http://garagebyaviture.com/)
+[Linseed Capital](https://web.archive.org/web/20170217052903/http://linseedcapital.com/)
+[Nebraska Angels](https://web.archive.org/web/20170217052903/http://nebraskaangels.org/)
+[Nebraska Global](https://web.archive.org/web/20170217052903/http://www.nebraskaglobal.com/)
+[Optimas Group](https://web.archive.org/web/20170217052903/http://optimasgroup.com/)
+[Prairie Ventures  
+](https://web.archive.org/web/20170217052903/http://www.prairieventures.net/)
+[Router Ventures](https://web.archive.org/web/20170217052903/http://www.routerventures.com/)
+[Treetop Ventures](https://web.archive.org/web/20170217052903/http://www.treetopventures.com/)
+
+
+##### Talent
+**Code Schools**
+
+[Interface School](https://web.archive.org/web/20170216070529/http://www.interfaceschool.com/)
+[Omaha Code School](https://web.archive.org/web/20170216070529/http://omahacodeschool.com/)
+
+**Recruiters**
+
+[Dynamo](https://web.archive.org/web/20170216070529/https://www.linkedin.com/company/dynamo-llc-)
+
+**Colleges/Universities**
+
+[Creighton Heider College of Business](https://web.archive.org/web/20170216070529/http://business.creighton.edu/)
+[Iowa Western CC Entrepreneurship Program](https://web.archive.org/web/20170216070529/http://www.iwcc.edu/Academic_Programs/program.asp?id=busentcert)
+[Maverick Innovations](https://web.archive.org/web/20170216070529/http://www.unomaha.edu/orca/unoia.php)
+[MCC Entrepreneurship Center](https://web.archive.org/web/20170216070529/http://www.mccneb.edu/entr/)
+[Midland University Management Program](https://web.archive.org/web/20170216070529/https://www.midlandu.edu/major/degree/management)
+[UNL Entrepreneurship](https://web.archive.org/web/20170216070529/http://www.entrepreneurship.unl.edu/)
+[UNL Raikes School](https://web.archive.org/web/20170216070529/http://raikes.unl.edu/)
+[UNO Entrepreneurship](https://web.archive.org/web/20170216070529/http://www.unomaha.edu/college-of-business-administration/marketing-management/management-specializations/entrepreneurship.php)
+[UNO Executive MBA](https://web.archive.org/web/20170216070529/http://www.unomaha.edu/college-of-business-administration/executive-mba/index.php)
+
+##### Professional
+**Accelerators/Incubators**
+
+[The Exchange](https://web.archive.org/web/20160505105930/http://www.omahaexchange.co/)
+[Garage by Aviture](https://web.archive.org/web/20160505105930/http://garagebyaviture.com/)
+[Aksarben Innovation Initiative](https://web.archive.org/web/20160505105930/http://www.aksarbeninnovation.org/)
+[Straight Shot](https://web.archive.org/web/20160505105930/http://straightshot.co/)
+[Pipeline](https://web.archive.org/web/20160505105930/http://www.pipelineentrepreneurs.com/)
+[Year of the Startup](https://web.archive.org/web/20160505105930/http://www.unemed.com/)
+[UNeMed](https://web.archive.org/web/20160505105930/http://www.unemed.com/)
+
+**Development/Design**
+
+[Agape Red](https://web.archive.org/web/20160505105930/http://agapered.com/)
+[B2 Interactive](https://web.archive.org/web/20160505105930/http://www.b2interactive.com/)
+[Code Lever](https://web.archive.org/web/20160505105930/http://codelever.com/)
+[Elevate](https://web.archive.org/web/20160505105930/http://www.elevate.co/)
+[Five Nines](https://web.archive.org/web/20160505105930/http://gonines.com/)
+[Garage by Aviture](https://web.archive.org/web/20160505105930/http://garagebyaviture.com/)
+[Goodtwin](https://web.archive.org/web/20160505105930/http://goodtwin.co/)
+[Grain and Mortar](https://web.archive.org/web/20160505105930/http://grainandmortar.com/)
+[iGroup Creative](https://web.archive.org/web/20160505105930/http://www.igroupcreative.com/)
+[Nebraska Global](https://web.archive.org/web/20160505105930/http://www.nebraskaglobal.com/)
+[Metro Fab Lab](https://web.archive.org/web/20160505105930/http://fablab.mccinfo.net/)
+
+**Legal**
+
+[Advent IP](https://web.archive.org/web/20160505105930/http://adventip.com/)
+[Baird Holm](https://web.archive.org/web/20160505105930/http://www.bairdholm.com/)
+[Dillashaw LLC](https://web.archive.org/web/20160505105930/http://www.dillashawllc.com/)
+[Koley Jessen](https://web.archive.org/web/20160505105930/http://www.koleyjessen.com/)
+[Kutack Rock](https://web.archive.org/web/20160505105930/http://www.kutakrock.com/)
+[Milligan PC LLO](https://web.archive.org/web/20160505105930/http://www.milliganpatent.com/)
+[Suiter Swantz IP](https://web.archive.org/web/20160505105930/http://www.suiter.com/)
+
+**Accountants**
+
+[Matt Westenberg](https://web.archive.org/web/20160505105930/https://www.linkedin.com/pub/matt-westenburg/29/b53/904)
+[Lutz: Vince Boulay](https://web.archive.org/web/20160505105930/http://www.lutz.us/)
+[EBCFO](https://web.archive.org/web/20160505105930/http://www.ebcfo.com/)
+
+**Office Space**
+
+[Alley Poyner Co-Lab](https://web.archive.org/web/20160505105930/http://www.alleypoyner.com/collaborators/)
+[CaliCommons](https://web.archive.org/web/20160505105930/http://calicommons.com/)
+[Mastercraft](https://web.archive.org/web/20160505105930/http://themastercraft.com/)
+[Scott Tech](https://web.archive.org/web/20160505105930/http://www.scott-technology.com/)
+[The Port](https://web.archive.org/web/20160505105930/https://www.facebook.com/pages/The-Port-at-IWCC/654836467961702)
+
+##### Community
+
+**Events  
+**
+
+[1 Million Cups](https://web.archive.org/web/20160504161132/http://omaha.sites.1millioncups.com/)
+[3DS Creighton](https://web.archive.org/web/20160504161132/http://creighton.3daystartup.org/)
+[AIM Coderdojo Omaha](https://web.archive.org/web/20160504161132/http://aimforbrilliance.org/coderdojo/)
+[Beer and Code Omaha](https://web.archive.org/web/20160504161132/http://www.beerandcode.org/)
+[Big Omaha](https://web.archive.org/web/20160504161132/http://bigomaha.com/)
+[Code Crush](https://web.archive.org/web/20160504161132/https://codecrush.unomaha.edu/)
+[Code One Omaha Hackathon](https://web.archive.org/web/20160504161132/http://www.codeoneomaha.com/)
+[Coffee && Code](https://web.archive.org/web/20160504161132/http://www.meetup.com/coffeeandcode/)
+[Cornstalks on Tour](https://web.archive.org/web/20160504161132/https://www.omahachamber.org/members/events/?view=header&eh_id=39)
+[Infotec](https://web.archive.org/web/20160504161132/http://infotec.org/)
+[Lean Startup Circle](https://web.archive.org/web/20160504161132/http://www.meetup.com/Lean-Startup-Circle-Omaha/)
+[Nebraska Code Conference](https://web.archive.org/web/20160504161132/http://nebraskacode.com/)
+[Omaha Coding Women](https://web.archive.org/web/20160504161132/https://www.facebook.com/OmaCodingWomen)
+[Startup Grind Council Bluffs](https://web.archive.org/web/20160504161132/http://www.meetup.com/Startup-Grind-Council-Bluffs)
+[TEDxOmaha Salon](https://web.archive.org/web/20160504161132/http://tedxomaha.com/)
+[UNO Midwest Entrepreneurship Conference](https://web.archive.org/web/20160504161132/http://www.unomaha.edu/college-of-business-administration/center-for-innovation-entrepreneurship-franchising/events-and-opportunities/mwec.php)
+
+**Information**
+
+[AIM Careerlink](https://web.archive.org/web/20160504161132/http://careerlink.com/)
+[Omaha Startups](https://web.archive.org/web/20160504161132/http://omahastartups.org/)
+[Silicon Prairie News](https://web.archive.org/web/20160504161132/http://siliconprairienews.com/)
+[Startup Genome](https://web.archive.org/web/20160504161132/http://www.startupgenome.co/)
+[Tech Omaha](https://web.archive.org/web/20160504161132/http://techomaha.com/)
+
+**  
+Networks  
+**
+
+[Omaha Entrepreneurs Network  
+](https://web.archive.org/web/20160504161132/https://www.linkedin.com/groups/Omaha-Entrepreneur-Network-4722871)
+[Omaha Game Developers Association  
+](https://web.archive.org/web/20160504161132/http://omahagamedev.com/)
+[Open Nebraska  
+](https://web.archive.org/web/20160504161132/http://opennebraska.io/)
+[Beeleev](https://web.archive.org/web/20160504161132/https://www.beeleev.com/team)
+
+**Non-profits**
+
+[AIM Institute](https://web.archive.org/web/20160504161132/http://aimforbrilliance.org/)
+[BioNebraska](https://web.archive.org/web/20160504161132/http://www.bionebraska.org/)
+[Metro Omaha Women’s Business Center](https://web.archive.org/web/20160504161132/http://mowbcf.org/about/)
+[The Start Center](https://web.archive.org/web/20160504161132/https://www.facebook.com/startcenteromaha)
+
+**Consulting**
+
+[Iowa Small Business Development Center  
+](https://web.archive.org/web/20160504161132/http://www.iowasbdc.org/)
+[Nebraska Business Development Center](https://web.archive.org/web/20160504161132/http://nbdc.unomaha.edu/)
+[Score – Greater Omaha](https://web.archive.org/web/20160504161132/https://omaha.score.org/)
