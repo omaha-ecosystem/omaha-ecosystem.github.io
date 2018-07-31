@@ -354,8 +354,7 @@ Pickerclub is a fast growing, innovative and interactive social media website th
 
 ##### Community
 
-**Events  
-**
+**Events**
 
 [1 Million Cups](https://web.archive.org/web/20160504161132/http://omaha.sites.1millioncups.com/)
 [3DS Creighton](https://web.archive.org/web/20160504161132/http://creighton.3daystartup.org/)
@@ -382,9 +381,7 @@ Pickerclub is a fast growing, innovative and interactive social media website th
 [Startup Genome](https://web.archive.org/web/20160504161132/http://www.startupgenome.co/)
 [Tech Omaha](https://web.archive.org/web/20160504161132/http://techomaha.com/)
 
-**  
-Networks  
-**
+**Networks**
 
 [Omaha Entrepreneurs Network  
 ](https://web.archive.org/web/20160504161132/https://www.linkedin.com/groups/Omaha-Entrepreneur-Network-4722871)
