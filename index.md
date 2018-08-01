@@ -3,6 +3,7 @@ title: Omaha Ecosystem | Businesses
 layout: default
 ---
 [Businesses](/) | [Capital](/capital) | [Community](/community) | [Professional](/professional) | [Talent](/talent)
+[Have something you want to add or change?](https://github.com/omaha-ecosystem/omaha-ecosystem.github.io/issues/new)
 
 # Businesses
 **AgriBusiness**
