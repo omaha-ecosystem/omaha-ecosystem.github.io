@@ -2,10 +2,9 @@
 title: Omaha Ecosystem | Businesses
 layout: default
 ---
-# Businesses
-
 [Businesses](/) | [Capital](/capital) | [Community](/community) | [Professional](/professional) | [Talent](/talent)
 
+# Businesses
 **AgriBusiness**
  * [Grain Goat](http://www.graingoat.com/)
  Small, cordless combine that allows producers to easily sample grain.

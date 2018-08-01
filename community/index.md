@@ -2,10 +2,9 @@
 title: Omaha Ecosystem | Community
 layout: default
 ---
-# Community
-
 [Businesses](/) | [Capital](/capital) | [Community](/community) | [Professional](/professional) | [Talent](/talent)
 
+# Community
 **Events**
 
  * [1 Million Cups](http://omaha.sites.1millioncups.com/)

@@ -2,10 +2,9 @@
 title: Omaha Ecosystem | Capital
 layout: default
 ---
-# Capital
-
 [Businesses](/) | [Capital](/capital) | [Community](/community) | [Professional](/professional) | [Talent](/talent)
 
+# Capital
 **Government Programs**
 
  * [Nebraska Prototype Program](http://www.neded.org/files/businessdevelopment/talentinnovation/businessinnovation/Prototype_Guidelines.pdf)
