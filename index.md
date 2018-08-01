@@ -1,10 +1,10 @@
 ---
-title: Omaha Ecosystem
+title: Omaha Ecosystem | Businesses
 layout: default
 ---
 # Businesses
 
-[Businesses](/) | [Capital](/capital) | [Community](/community) | [Talent](/talent)
+[Businesses](/) | [Capital](/capital) | [Community](/community) | [Professional](/professional) | [Talent](/talent)
 
 ### AgriBusiness
  * [Grain Goat](http://www.graingoat.com/)

@@ -4,7 +4,7 @@ layout: default
 ---
 # Talent
 
-[Businesses](/) | [Capital](/capital) | [Community](/community) | [Talent](/talent)
+[Businesses](/) | [Capital](/capital) | [Community](/community) | [Professional](/professional) | [Talent](/talent)
 
 **Code Schools**
 
