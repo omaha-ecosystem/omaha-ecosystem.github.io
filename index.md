@@ -4,47 +4,31 @@ layout: default
 ---
 # Businesses
 
-[Capital](/capital) | [Community](/community) | [Talent](/talent)
+[Businesses](/) | [Capital](/capital) | [Community](/community) | [Talent](/talent)
 
-##### AgriBusiness
-
+### AgriBusiness
  * [Grain Goat](http://www.graingoat.com/)
-
-Small, cordless combine that allows producers to easily sample grain.
-
+ Small, cordless combine that allows producers to easily sample grain.
  * [Farmcentric](http://farmcentric.com/)
-
-Content solution for grain elevators, cooperatives and agribusiness.
-
+ Content solution for grain elevators, cooperatives and agribusiness.
  * [Farmobile](https://www.farmobile.com/)
+ Simplifies data from machine to decisions.
 
-Simplifies data from machine to decisions.
 
-
-##### E-Commerce
-
+### E-Commerce
  * [Assortify](http://www.assortify.com/)
-
-Improving product conversion, increasing revenue and maintaining profitability.
-
+ Improving product conversion, increasing revenue and maintaining profitability.
  * [Borrow For Your Bump](http://www.borrowforyourbump.com/)
-
-Offer maternity clothing for a monthly rate.
-
+ Offer maternity clothing for a monthly rate.
  * [Dollar Promo Club](http://www.dollarpromoclub.com/)
-
-Provides hand picked/high quality promotional items more efficiently that traditional ordering.
-
+ Provides hand picked/high quality promotional items more efficiently that traditional ordering.
  * [Peareo](https://www.peareo.com/)
-
-Omaha’s online neighborhood garage sale.
-
+ Omaha’s online neighborhood garage sale.
  * [Nature Hills](http://www.naturehills.com/)
+ America’s largest online plant nursery.
 
-America’s largest online plant nursery.
 
-
-##### Engineering/Construction
+### Engineering/Construction
 
  * [Buildertrend](https://www.buildertrend.com/)
 
@@ -55,7 +39,7 @@ Construction management software for home builders and contractors.
 Virtual testing software for the worlds most advanced materials.
 
 
-##### Financial Services
+### Financial Services
 
  * [D3 Banking](http://www.d3banking.com/)
 
@@ -98,7 +82,7 @@ Systems and processes have proven to substantially increase financial performanc
 Platform works with existing software to connect all parties involved in the mortgage closing process.
 
 
-##### Retail Solutions
+### Retail Solutions
 
  * [Action Card](http://actioncardapp.com/)
 
@@ -125,7 +109,7 @@ Use the free TAGG app to raise money for your school, youth sports team, or favo
 PinPoint is a groundbreaking savings and rewards program, offering members discounts and rewards at a wide variety of merchants through the use of a single card.
 
 
-##### Healthcare
+### Healthcare
 
  * [Crumb Labs](http://www.crumb.co/)
 
@@ -144,7 +128,7 @@ Helps senior citizen residents thrive in the communities they live in.
 Providing quick, easy, affordable access to healthcare for your minor illness.
 
 
-##### Software-as-a-Service
+### Software-as-a-Service
 
  * [Flywheel](https://getflywheel.com/)
 
@@ -183,7 +167,7 @@ Flowers Simplified
 School management software that’s affordable.
 
 
-##### Sports Technology
+### Sports Technology
 
  * [CartTrac](http://www.carttrac.com/)
 

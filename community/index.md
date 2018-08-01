@@ -1,5 +1,11 @@
+---
+title: Omaha Ecosystem | Community
+layout: default
+---
+# Professional
 
-##### Professional
+[Businesses](/) | [Capital](/capital) | [Community](/community) | [Talent](/talent)
+
 **Accelerators/Incubators**
 
  * [The Exchange](http://www.omahaexchange.co/)

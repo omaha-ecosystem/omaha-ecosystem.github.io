@@ -1,5 +1,11 @@
+---
+title: Omaha Ecosystem | Capital
+layout: default
+---
+# Capital
 
-##### Capital
+[Businesses](/) | [Capital](/capital) | [Community](/community) | [Talent](/talent)
+
 **Government Programs**
 
  * [Nebraska Prototype Program  

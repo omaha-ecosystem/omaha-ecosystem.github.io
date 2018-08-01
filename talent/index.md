@@ -1,6 +1,11 @@
+---
+title: Omaha Ecosystem | Talent
+layout: default
+---
+# Talent
 
+[Businesses](/) | [Capital](/capital) | [Community](/community) | [Talent](/talent)
 
-##### Talent
 **Code Schools**
 
  * [Interface School](http://www.interfaceschool.com/)
