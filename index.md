@@ -6,7 +6,7 @@ layout: default
 
 [Businesses](/) | [Capital](/capital) | [Community](/community) | [Professional](/professional) | [Talent](/talent)
 
-### AgriBusiness
+**AgriBusiness**
  * [Grain Goat](http://www.graingoat.com/)
  Small, cordless combine that allows producers to easily sample grain.
  * [Farmcentric](http://farmcentric.com/)
@@ -14,8 +14,7 @@ layout: default
  * [Farmobile](https://www.farmobile.com/)
  Simplifies data from machine to decisions.
 
-
-### E-Commerce
+**E-Commerce**
  * [Assortify](http://www.assortify.com/)
  Improving product conversion, increasing revenue and maintaining profitability.
  * [Borrow For Your Bump](http://www.borrowforyourbump.com/)
@@ -27,15 +26,13 @@ layout: default
  * [Nature Hills](http://www.naturehills.com/)
  America’s largest online plant nursery.
 
-
-### Engineering/Construction
+**Engineering/Construction**
  * [Buildertrend](https://www.buildertrend.com/)
  Construction management software for home builders and contractors.
  * [MultiMechanics](http://multimechanics.com/)
  Virtual testing software for the worlds most advanced materials.
 
-
-### Financial Services
+**Financial Services**
  * [D3 Banking](http://www.d3banking.com/)
  Online banking platform focused on the user experience.
  * [FTNI](http://www.ftni.com/)
@@ -57,7 +54,7 @@ layout: default
  * [ATS Secured](https://www.atssecured.com/)
  Platform works with existing software to connect all parties involved in the mortgage closing process.
 
-### Retail Solutions
+**Retail Solutions**
  * [Action Card](http://actioncardapp.com/)
  Mobile and web-based field management.
  * [Blabfeed](http://www.blabfeed.com/)
@@ -71,7 +68,7 @@ layout: default
  * [PinPoint](http://www.pinpointrewards.com/index.cfm)
  PinPoint is a groundbreaking savings and rewards program, offering members discounts and rewards at a wide variety of merchants through the use of a single card.
 
-### Healthcare
+**Healthcare**
  * [Crumb Labs](http://www.crumb.co/)
  Solving the most difficult data problems in healthcare.
  * [H4 Technology](http://h4-technology.com/)
@@ -81,7 +78,7 @@ layout: default
  * [DocOn](http://www.mydocon.com/)
  Providing quick, easy, affordable access to healthcare for your minor illness.
 
-### Software-as-a-Service
+**Software-as-a-Service**
  * [Flywheel](https://getflywheel.com/)
  Beautifully simple WordPress hosting.
  * [Bric](http://getbric.com/)
@@ -101,7 +98,7 @@ layout: default
  * [Sycamore Education](http://159.203.95.86/)
  School management software that’s affordable.
 
-### Sports Technology
+**Sports Technology**
  * [CartTrac](http://www.carttrac.com/)
  Affordable golf course management tracking system and.
  * [Racenote](http://racenote.com/)
